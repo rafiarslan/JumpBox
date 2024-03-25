@@ -1,4 +1,8 @@
 # JumpBox
 
-A simple jumping game which player tries to jump to the top of the tower without dying to obstacles. <br/>
-Game is made using Unity game engine.
+JumpBox is an arcade jumping game.
+Players try to make their way to 
+the top by jumping through platforms. If a player touches the red 
+platforms, it's game over, and the player has to restart from the 
+beginning.
+Made with Unity Engine.

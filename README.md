@@ -10,11 +10,11 @@ Made with Unity 2018.
 
 # Controls and Mechanics
 
--A and D keys to move left and right
+-A and D keys to move left and right.
 
--Spacebar to jump
+-Spacebar to jump.
 
--Double jump: Player can double jump by double-tapping the spacebar
+-Double jump: Player can double jump by double-tapping the spacebar.
 
 -Wall slide: Players can slide through the wall by pressing the A and D keys alternately.
 
